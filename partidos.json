@@ -1,0 +1,82 @@
+[ {
+    "name": "Partido Trabalhista Brasileiro",
+    "deferimento": "3.11.1981",
+    "numero": "14",
+    "presidente_nacional": "Zubi zubi",
+    "id": 2,
+    "sigla": "PTB",
+    "image": "foto1"
+}, {
+    "name": "Partido Democr\u00c1Tico Trabalhista",
+    "deferimento": "10.11.1981",
+    "numero": "12",
+    "presidente_nacional": "Carlos Lupi",
+    "id": 3,
+    "sigla": "PDT"
+    ,"image": "foto2"
+}, {
+    "name": "Partido Social Democr\u00c1Tico",
+    "deferimento": "27.9.2011",
+    "numero": "55",
+    "presidente_nacional": "Gilberto Kassab",
+    "id": 28,
+    "sigla": "PSD"
+    ,"image": "foto3"
+}, {
+    "name": "Partido P\u00c1Tria Livre",
+    "deferimento": "4.10.2011",
+    "numero": "54",
+    "presidente_nacional": "S\u00c9Rgio Rubens De Ara\u00daJo Torres",
+    "id": 29,
+    "sigla": "PPL"
+    ,"image": "foto4"
+}, {
+    "name": "Partido Ecol\u00d3Gico Nacional",
+    "deferimento": "19.6.2012",
+    "numero": "51",
+    "presidente_nacional": "Adilson Barroso Oliveira",
+    "id": 30,
+    "sigla": "PEN"
+    ,"image": "foto5"
+}, {
+    "name": "Partido Republicano Da Ordem Social",
+    "deferimento": "24.9.2013",
+    "numero": "90",
+    "presidente_nacional": "Eur\u00cdPedes G.De Macedo J\u00daNior",
+    "id": 31,
+    "sigla": "\u00a0"
+    ,"image": "foto6"
+}, {
+    "name": "Solidariedade",
+    "deferimento": "24.9.2013",
+    "numero": "77",
+    "presidente_nacional": "Paulo Pereira Da Silva",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto7"
+}, {
+    "name": "Solidariedade",
+    "deferimento": "24.9.2013",
+    "numero": "160",
+    "presidente_nacional": "Jacinto Pinto da silva",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto8"
+}, {
+    "name": "Solidariedade",
+    "deferimento": "24.9.2013",
+    "numero": "555",
+    "presidente_nacional": "Descendo escada rolando",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto9"
+}
+, {
+    "name": "Solidariedade",
+    "deferimento": "24.9.2013",
+    "numero": "666",
+    "presidente_nacional": "Capetao nascimento",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto10"
+}]

@@ -1,0 +1,83 @@
+[ {
+    "name": "Partido Trabalhista Brasileiro",
+    "deferimento": "3.11.1981",
+    "numero": "1444",
+    "presidente_nacional": "Rogerin zica",
+    "id": 2,
+    "sigla": "PTB",
+    "image": "foto11"
+}, {
+    "name": "Partido DemocrTico Trabalhista",
+    "deferimento": "10.11.1981",
+    "numero": "4342",
+    "presidente_nacional": " Lupi zupi",
+    "id": 3,
+    "sigla": "PDT"
+    ,"image": "foto12"
+}, {
+    "name": "Partido Social DemocrTico",
+    "deferimento": "27.9.2011",
+    "numero": "1500",
+    "presidente_nacional": "Jose Comilao",
+    "id": 28,
+    "sigla": "PSD"
+    ,"image": "foto13"
+}, {
+    "name": "Partido  me da nota",
+    "deferimento": "4.10.2011",
+    "numero": "99999",
+    "presidente_nacional": "Juca",
+    "id": 29,
+    "sigla": "PPL"
+    ,"image": "foto14"
+}, {
+    "name": "Partido The fastestes man alive",
+    "deferimento": "19.6.2012",
+    "numero": "3808080",
+    "presidente_nacional": "Barry Allen",
+    "id": 30,
+    "sigla": "PEN"
+    ,"image": "foto15"
+}, {
+    "name": "Partido que nao funciona",
+    "deferimento": "24.9.2013",
+    "numero": "000",
+    "presidente_nacional": "Comunista",
+    "id": 31,
+    "sigla": "\u00a0"
+    ,"image": "foto16"
+}, {
+    "name": "Partido Bom",
+    "deferimento": "24.9.2013",
+    "numero": "13322",
+    "presidente_nacional": "Bom de Queijo",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto17"
+}, {
+    "name": " Partido Agua",
+    "deferimento": "24.9.2013",
+    "numero": "23141",
+    "presidente_nacional": "eu molho",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto18"
+}
+, {
+    "name": "Partido partido dos atrasados",
+    "deferimento": "24.9.2013",
+    "numero": "13322",
+    "presidente_nacional": "penultimo",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto19"
+}
+, {
+    "name": "Partido  da que eu te dou outra",
+    "deferimento": "24.9.2013",
+    "numero": "17",
+    "presidente_nacional": "QQ ISSO",
+    "id": 32,
+    "sigla": "SD"
+    ,"image": "foto20"
+}]
